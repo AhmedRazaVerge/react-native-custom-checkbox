@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types'
 import { Text, TouchableHighlight, View } from 'react-native';
-
-import Icon from 'react-native-vector-icons/FontAwesome';
+import Icon from "react-native-fontawesome-pro";
 import _ from 'underscore';
 
 var BACKGROUND_COLOR, BORDER_RADIUS, BORDER_WIDTH, COLOR, MARGIN, SIZE, BORDER_COLOR;
